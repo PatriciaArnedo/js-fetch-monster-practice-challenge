@@ -6005,6 +6005,36 @@
       "age": 13,
       "description": "131313",
       "id": 1001
+    },
+    {
+      "name": "Curly the Cruel",
+      "age": 4550.1665,
+      "description": "He's a curly boi the most fearsome in the land",
+      "id": 1002
+    },
+    {
+      "name": "Mike Wazowski",
+      "age": 304.5,
+      "description": "Short guy with one giant eye",
+      "id": 1003
+    },
+    {
+      "name": "Sully",
+      "age": 5000.658729,
+      "description": "A hunking giant oaf with a heart of gold and fluffy fluff",
+      "id": 1004
+    },
+    {
+      "name": "Slughorn",
+      "age": 200.5634,
+      "description": "A slimy nightmare",
+      "id": 1005
+    },
+    {
+      "name": "Hornsby",
+      "age": 232534.34245,
+      "description": "A great horn-ed beast that crawls in the night and steals babies",
+      "id": 1006
     }
   ]
 }
